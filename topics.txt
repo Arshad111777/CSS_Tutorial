@@ -40,3 +40,100 @@ CSS All Topics
 
 (5) CSS Width & Height
 
+1- Min-Width
+2- Min-Height
+3- Max-Width
+4- Max-Height
+
+////////////////
+
+(6) Padding
+
+1- Padding-Block
+2- Padding-Inline
+
+
+///////////////
+
+(7) Margin
+
+1- Margin-Block
+2- Margin-Inline
+
+//////////////
+
+(8) Box Model
+
+1- Margin
+2- Border
+3- Padding
+4- Content
+
+////////////
+
+(9) Text
+
+1- Color
+2- text-align
+3- direction
+4- vertical-align
+5- text-decoration
+6- text-transform
+7- line-Height
+8- text-indent
+9- letter-spacing
+10- word-spacing
+11- white-space
+12- word-wrap
+13- text-shadow
+14- writing-mode
+
+/////////////
+
+(10) Links
+
+1- :link
+2- :visited
+3- :hover
+4- :active
+
+
+////////////
+
+(11) CSS Fonts
+
+1- font-Size
+2- font-weight
+3- font-Style
+4- font-variant
+5- google-font
+6- @font-face
+
+/////////////
+
+(12) CSS Units
+
+Absolute Unit in CSS
+
+1- Cm
+2- Mm
+3- Inch
+4- Px (1 inch = 96px)
+5- Pt (1 inch = 72Pt)
+6- Pc (1 pc = 12pt )
+
+Relative Unit in CSS
+
+1- Em - Em is Relative to the size of its direct parent
+2- Rem - rem is only Relative to root (html tag) size
+3- Vh - 1% of view port Height
+4- Vw - 1% of view port Width
+5- % - Relative to parent
+
+/////////////////////
+
+(13) Cursor
+
+1- 
+2- 
+
